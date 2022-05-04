@@ -9,3 +9,7 @@ During my tenure with Apollo, we grew to a multiple six figure company in 2 year
 Checkout my github account: https://github.com/erict001
 
 Here's my LinkedIn page: https://www.linkedin.com/in/eric-taylor-03181917a/
+
+Feel free to email me at: eric.taylor1012@gmail.com
+
+Additionally, here's a link to my portfolio: https://erict001.github.io/Eric-Portfolio/
