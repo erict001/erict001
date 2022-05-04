@@ -1,5 +1,3 @@
-# welcome-readMe
-
 Hello, my name is Eric Taylor. I am currently enrolled in the UW Full-Stach Web Development Bootcamp. We are scheduled to graduate 06/13/2022!
 
 We are currently learning back-end programming; SQL and Sequalize. 
