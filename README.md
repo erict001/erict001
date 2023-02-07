@@ -1,8 +1,6 @@
-Hello, my name is Eric Taylor. I am a recent graduate of the University of Washington Full-Stack Web Development Bootcamp.
+Hello, my name is Eric Taylor. 
 
-Prior to this bootcamp, I was the CEO of a sports company, Apollo Academy Basketball, for the past 3 years and previously was the CFO of another sports company, Fenix Basketball, for the 2 years prior to my tenure with Apollo. Before Fenix Basketball, I was also the sports performance and logistics director of City Baseball, which grew to be the largest youth baseball company in the Northwest during my tenure there. 
-
-During my tenure with Apollo, we grew to a multiple six figure company in 2 years while operating with a very regionally based service. I was responsible for collecting and allocating finances across the company, was the primary point of contact for all Apollo clients, and built all websites and technology used within Apollo.  
+I am a Full stack software developer with 4+ years of experience in all stages of advanced web development. Knowledgeable in the entirety of the software development life cycle; bringing forth expertise in design, installation, testing and maintenance of various software applications. Having built two multi-six figure companies from scratch in under 2 years, I am an effective self starter, able to manage multiple projects simultaneously, as well as collaborative and productive team member.
 
 Checkout my github account: https://github.com/erict001
 
@@ -10,4 +8,4 @@ Here's my LinkedIn page: https://www.linkedin.com/in/eric-taylor-03181917a/
 
 Feel free to email me at: eric.taylor1012@gmail.com
 
-Additionally, here's a link to my portfolio: https://erict001.github.io/Eric-Portfolio/
+Additionally, here's a link to my portfolio: https://salty-beyond-13820.herokuapp.com
